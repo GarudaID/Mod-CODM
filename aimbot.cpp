@@ -1,4 +1,7 @@
-CODM Global 1.0.35 aimbot
+//version: 1.0.35
+//mode: Aimbot
+//region for: Global version
+                            //region for: Garena next coming up!\\
 
 so=gg.getRangesList('libil2cpp.so')[1].start
 py=0x6D4EA50      
