@@ -5,5 +5,14 @@
 </p>
 <h5 align='center'>If you are here, please leave a ⭐️ at <a href='[https://github.com/GarudaID/GarudaID](https://github.com/GarudaID/Mod-CODM)'>Script Mod  CODM 1.0.35</a> Show your support! 👍🏻</h6>
 
-## Supported Languages
--   English
+<div align="center">
+<b>Script Maker</b> Call Of Duty Mobile: this script is only used for codm mod makers out there,
+y. We do not take responsibility in anything done with this utility mod.
+If you want to contribute to this project, feel free to fork this repository and submit a pull request.
+  </p>
+</div>
+
+## Contributing
+To contribute, simply **fork the repository**, edit the code, and **submit a pull request**.
+We will then check your pull request and accept/deny it.
+If you are clueless about what you could start with, [Pull request](https://github.com/GarudaID/Mod-CODM/pulls).
