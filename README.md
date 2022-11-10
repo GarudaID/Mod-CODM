@@ -13,6 +13,10 @@ If you want to contribute to this project, feel free to fork this repository and
 <img src="https://github.com/GarudaID/Mod-CODM/blob/main/pict/wallhack.jpg">  
 </div>
 
+## How to use script lua
+before you start the game, you should use a bot account first to find out if this script works well or not.
+to run the lua script, you need a supporting application such as [Game Guardian](https://gameguardian.xyz/download/)
+
 ## Contributing
 To contribute, simply **fork the repository**, edit the code, and **submit a pull request**.
 We will then check your pull request and accept/deny it.
