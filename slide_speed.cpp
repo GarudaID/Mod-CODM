@@ -1,4 +1,7 @@
-CODM Global 1.0.35 Slide speed
+//version: 1.0.35
+//mode: Slide Speed
+//region for: Global version
+                            //region for: Garena next coming up!\\
 
 so=gg.getRangesList('libil2cpp.so')[1].start
 py=0x2097C74     
