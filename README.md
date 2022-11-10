@@ -1,4 +1,4 @@
-<h1 align='center'>Script Mod CODM 1.0.35</h1>
+<h1 align='center'>Script Mod CODM: Global 1.0.35</h1>
 
 <p align="center">
 <a href="https://kaixin.my.id" target="_blank"> <img src="https://github.com/GarudaID/Mod-CODM/blob/main/pict/cpp.png" alt="GarudaID Github"/></a>
