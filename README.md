@@ -16,9 +16,20 @@ If you want to contribute to this project, feel free to fork this repository and
   </p>
 <img src="https://github.com/GarudaID/Mod-CODM/blob/main/Showcase/wallhack.jpg">  
 </div>
+
+<div align="center">
 High Aimbot:
 
 https://user-images.githubusercontent.com/48685463/201332976-fd8dc634-4193-429e-b21f-8e6f26c7a3a5.mp4
+</p>
+
+<div align="center">
+Wallhack + Line:
+
+https://user-images.githubusercontent.com/48685463/201334480-45fd10f8-a840-4e73-97f5-997f664356a3.mp4
+</p>
+
+<div align="left">
 
 ## How to use script lua
 before you start the game, you should use a bot account first to find out if this script works well or not.
@@ -28,3 +39,4 @@ to run the lua script, you need a supporting application such as [Game Guardian]
 To contribute, simply **fork the repository**, edit the code, and **submit a pull request**.
 We will then check your pull request and accept/deny it.
 If you are clueless about what you could start with, [Pull request](https://github.com/GarudaID/Mod-CODM/pulls).
+</p>
