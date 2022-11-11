@@ -23,12 +23,6 @@ High Aimbot:
 https://user-images.githubusercontent.com/48685463/201332976-fd8dc634-4193-429e-b21f-8e6f26c7a3a5.mp4
 </p>
 
-<div align="center">
-Wallhack + Line:
-
-https://user-images.githubusercontent.com/48685463/201334480-45fd10f8-a840-4e73-97f5-997f664356a3.mp4
-</p>
-
 <div align="left">
 
 ## How to use script lua
