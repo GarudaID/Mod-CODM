@@ -25,9 +25,15 @@ https://user-images.githubusercontent.com/48685463/201332976-fd8dc634-4193-429e-
 
 <div align="left">
 
-## How to use script lua
+## How to use script lua (Instant MOD)
 before you start the game, you should use a bot account first to find out if this script works well or not.
 to run the lua script, you need a supporting application such as [Game Guardian](https://gameguardian.xyz/download/)
+
+- Download Script [Go There](https://github.com/GarudaID/Mod-CODM/tree/main/lua)
+- Open your [Game Guardian](https://gameguardian.xyz/download/)
+- on Loading screen `Activision` back open `Game Guardian`
+- Load Script then go click `Bypass Logo` after in lobby press `Bypass Lobby`
+- Done, Happy Cheating
 
 ## Contributing
 To contribute, simply **fork the repository**, edit the code, and **submit a pull request**.
