@@ -40,3 +40,6 @@ To contribute, simply **fork the repository**, edit the code, and **submit a pul
 We will then check your pull request and accept/deny it.
 If you are clueless about what you could start with, [Pull request](https://github.com/GarudaID/Mod-CODM/pulls).
 </p>
+
+## Disclaimer
+This project is only for educational purposes. Therefore I'm not responsible for any harm/illegal activity that may happens. I made this project to learn more about reverse engineering and not to ruin the experience for other gamers. I will not be updating the offsets for this reason.This may not be exact code as the one in my hackathon.
