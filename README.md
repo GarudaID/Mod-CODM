@@ -29,26 +29,11 @@ https://user-images.githubusercontent.com/48685463/201332976-fd8dc634-4193-429e-
 before you start the game, you should use a bot account first to find out if this script works well or not.
 to run the lua script, you need a supporting application such as [Game Guardian](https://gameguardian.xyz/download/)
 
-- Download Script [Go There](https://github.com/GarudaID/Mod-CODM/releases/tag/Version.1.0.35a)
-- Open your [Game Guardian](https://gameguardian.xyz/download/)
-- on Loading screen `Activision` back open `Game Guardian`
-- Load Script then go click `Bypass Logo` after in lobby press `Bypass Lobby`
-- Done, Happy Cheating
-----------
-
-1. Open your Call of duty mobile, and wait to loading screen `Activision`
-2. Open `Game Guardian` and `Load then running script`
-3. in loading screen `Activision` mark `Bypass Logo` , after in game lobby please `Turn off Bypass Logo`
-4. Turn On `Bypass Lobby`
-5. done 
-
-for all feature use in lobby
+## Tutorial running script lua (Game Guardian)
+If you want to contribute to how to run the lua script for codm with game guardian, you are welcome to [pull a request](https://github.com/GarudaID/Mod-CODM/pulls), I will check whether what you wrote is valid or not
 
 ## Contributing
 To contribute, simply **fork the repository**, edit the code, and **submit a pull request**.
 We will then check your pull request and accept/deny it.
 If you are clueless about what you could start with, [Pull request](https://github.com/GarudaID/Mod-CODM/pulls).
 </p>
-
-## Disclaimer
-This project is only for educational purposes. Therefore I'm not responsible for any harm/illegal activity that may happens. I made this project to learn more about reverse engineering and not to ruin the experience for other gamers. I will not be updating the offsets for this reason.This may not be exact code as the one in my hackathon.
