@@ -34,6 +34,15 @@ to run the lua script, you need a supporting application such as [Game Guardian]
 - on Loading screen `Activision` back open `Game Guardian`
 - Load Script then go click `Bypass Logo` after in lobby press `Bypass Lobby`
 - Done, Happy Cheating
+----------
+
+1. Open your Call of duty mobile, and wait to loading screen `Activision`
+2. Open `Game Guardian` and `Load then running script`
+3. in loading screen `Activision` mark `Bypass Logo` , after in game lobby please `Turn off Bypass Logo`
+4. Turn On `Bypass Lobby`
+5. done 
+
+for all feature use in lobby
 
 ## Contributing
 To contribute, simply **fork the repository**, edit the code, and **submit a pull request**.
