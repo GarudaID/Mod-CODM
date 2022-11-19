@@ -18,9 +18,10 @@ If you want to contribute to this project, feel free to fork this repository and
 </div>
 
 <div align="center">
-High Aimbot:
+Gameplay:
 
-https://user-images.githubusercontent.com/48685463/201332976-fd8dc634-4193-429e-b21f-8e6f26c7a3a5.mp4
+https://user-images.githubusercontent.com/48685463/202849746-3256fe3d-4151-4869-b8bc-758ca68eeb1c.mp4
+
 </p>
 
 <div align="left">
