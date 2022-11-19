@@ -18,16 +18,20 @@ If you want to contribute to this project, feel free to fork this repository and
 </div>
 
 <div align="center">
-High Aimbot:
+Gameplay:
 
-https://user-images.githubusercontent.com/48685463/201332976-fd8dc634-4193-429e-b21f-8e6f26c7a3a5.mp4
+https://user-images.githubusercontent.com/48685463/202849746-3256fe3d-4151-4869-b8bc-758ca68eeb1c.mp4
+
 </p>
 
 <div align="left">
 
-## How to use script lua
+## How to use script lua (Instant MOD)
 before you start the game, you should use a bot account first to find out if this script works well or not.
 to run the lua script, you need a supporting application such as [Game Guardian](https://gameguardian.xyz/download/)
+
+## Tutorial running script lua (Game Guardian)
+If you want to contribute to how to run the lua script for codm with game guardian, you are welcome to [pull a request](https://github.com/GarudaID/Mod-CODM/pulls), I will check whether what you wrote is valid or not
 
 ## Contributing
 To contribute, simply **fork the repository**, edit the code, and **submit a pull request**.
