@@ -1,0 +1,12 @@
+so=gg.getRangesList('libil2cpp.so')[1].start  
+py=0x2BA53E8 
+setvalue(so+py,4,-476053503)
+so=gg.getRangesList('libil2cpp.so')[1].start  
+py=0x2BA53EC 
+setvalue(so+py,4,-516948194)
+so=gg.getRangesList('libil2cpp.so')[1].start  
+py=0x2BDBD4C 
+setvalue(so+py,4,-476053503)
+so=gg.getRangesList('libil2cpp.so')[1].start  
+py=0x2BDBD50 
+setvalue(so+py,4,-516948194)
